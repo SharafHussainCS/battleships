@@ -1,0 +1,5 @@
+Eren,yeager,20
+Mikasa,akermann,30
+Levi,akermann,30
+Kenny,akermann,20
+Im,nayeon,0
